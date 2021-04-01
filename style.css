@@ -1,0 +1,22 @@
+body {
+    background-color: #343a40;
+}
+
+.totals{
+    color: #FFFFFF;
+}
+
+.tableAndResults{
+    padding-top: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 2%;
+}
+
+.titleOfSite{
+    color: #FFFFFF;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    align-content: center;
+}
